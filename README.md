@@ -3,5 +3,5 @@
 </h1>
 
 <div align="center">
-  <img src="pixeldump.png" alt="Arkam Fahri" style="width: 400px; height: auto;">
+  <img src="pixeldump.png" alt="PixelDump" style="width: 400px; height: auto;">
 </div>
